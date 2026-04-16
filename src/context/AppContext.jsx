@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
-import friendsData from '../data/friends.json';
+import friendsData from '../Data/friends.json';
 
 export const AppContext = createContext();
 
