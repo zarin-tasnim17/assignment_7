@@ -1,16 +1,16 @@
-# React + Vite
+Keen-Keeper 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, lightweight productivity companion designed to help users build lasting habits and stay on top of their daily goals without the clutter.
 
-Currently, two official plugins are available:
+🚀 About the Project
+Keen-Keeper is built for those who want to "keep keen" on their personal growth. It provides a minimalist interface to track recurring tasks and monitor progress over time, turning abstract goals into actionable daily wins.
+🛠️ Technologies Used
+* **Frontend:** React.js / Vite
+* **Styling:** Tailwind CSS (for that crisp, modern UI)
+* **State Management:** React Hooks (useState, useEffect)
+* **Icons:** Lucide-React / FontAwesome
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Key Features
+* **Interactive Habit Dashboard:** A centralized view to visualize your daily streaks and upcoming tasks at a glance.
+* **Progress Analytics:** Dynamic progress bars and visual cues that provide immediate feedback on your completion rates.
+* **Customizable Goal Setting:** Flexibility to create, edit, and categorize habits based on your personal routine and priority levels.
