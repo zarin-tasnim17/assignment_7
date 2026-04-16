@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { AppContext } from '../context/AppContext';
-import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts';
+import { PieChart, Pie,ResponsiveContainer, Legend, Tooltip } from 'recharts';
 
 const COLORS = ['#3b82f6', '#22c55e', '#a855f7', '#f59e0b']; // Blue, Green, Purple, Amber
 

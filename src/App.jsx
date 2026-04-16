@@ -4,7 +4,7 @@ import { AppProvider } from './context/AppContext.jsx';
 import Layout from './components/Layout.jsx';
 import Home from './pages/Home.jsx';
 import FriendDetail from './pages/FriendDetails.jsx';
-import Timeline from './pages/Timeline.jsx';
+import Timeline from './pages/timeline.jsx';
 import Stats from './pages/Stats.jsx';
 import NotFound from './pages/NotFound.jsx';
 
